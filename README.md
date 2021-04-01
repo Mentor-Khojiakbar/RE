@@ -1,7 +1,7 @@
 ![alt MATE Programming Lab](https://github.com/Mentor-Khojiakbar/RE/blob/main/logo.svg?raw=true)
 # Тесты на тему Регулярные Выражение
 
-#### 1. Создайте программу Python для удаления подстрок нижнего регистра в заданной строке.
+#### 1. Создайте программу Python для удаления строк нижнего регистра в заданной строке.
 
 
 | INPUT | OUTPUT |
