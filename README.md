@@ -32,10 +32,11 @@
 
 
 #### 4.Напишите программу Python для разделения строки на прописные буквы:
+
 | INPUT | OUTPUT |
 |   ---   |   ---  |
 | PythonTutorialAndExercises | ['Python', 'Tutorial', 'And', 'Exercises'] |
-| ItAcademy | ['It', 'Academy'] |
+| ITAcademy | ['IT', 'Academy'] |
 
 
 #### 5.Напишите программу Python, которая удаляет из строки все, кроме буквенно-цифровых символов.
